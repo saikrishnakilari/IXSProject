@@ -8,6 +8,6 @@ public class TestClass
 	public void testhello()
 	{
 		System.out.println("Maven Project1");
-		System.out.println("Maven Project2");
+		System.out.println("Maven Project22");
 	}
 }
